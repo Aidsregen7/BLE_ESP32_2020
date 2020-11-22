@@ -3,4 +3,7 @@
     <string name="BLE_not_supported">BLE not supported!</string>
     <string name="BT_not_available">Bluetooth not available</string>
     <string name="Scan">Scan</string>
+    <string name="Empfangen">Daten Empfangen</string>
+    <string name="Verbinden">Verbinden</string>
+    <string name="Trennen">Verbindung trennen</string>
 </resources>
